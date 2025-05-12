@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm CodeNexus17 👋
 
-<!--
-**CodeNexus17/CodeNexus17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate self-taught developer who loves building cool and useful projects using Python 🐍 and web technologies 🌐.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧠 Technologies & Tools I Use:
+- 💻 Python, Django, Django REST Framework, Aiogram
+- ⚙️ Git & GitHub
+- 🗄️ PostgreSQL, Sqlite3
+- 🐳 Docker
+- 🧪 PyCharm
+
+---
+
+#### 🛠️ Current Projects:
+- 🔧 `django_news` – a simple news website with admin panel
+- 🌤️ `weather_bot` – a Telegram bot that fetches weather data
+- 📚 `wikipedia_bot` – fetches summaries from Wikipedia
+
+---
+
+#### 📫 Contact Me:
+- 📧 Email: asadbekcode@example.com
+- 💬 Telegram: @imtryv
+- 💼 LinkedIn: Asadbek Turayev
